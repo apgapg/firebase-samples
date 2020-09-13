@@ -4,7 +4,7 @@ Collection of different firebase samples demonstrating their usage for all Andro
 
 ## 1. Sample to demonstrate uploading image to firebase storage
 
-<img src="https://raw.githubusercontent.com/apgapg/firebase-samples/vue-firebase-storage/master/res/s1.png"  width="auto">
+<img src="https://raw.githubusercontent.com/apgapg/firebase-samples/master/vue-firebase-storage/res/s2.png"  width="auto">
 
 ## Firebase Setup
 
