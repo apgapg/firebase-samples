@@ -4,6 +4,9 @@ Collection of different firebase samples demonstrating their usage for all Andro
 
 ## 1. Sample to demonstrate uploading image to firebase storage
 
+- Uses firebase storage web SDK for uploading images
+- Uses compressorJs for compressing image to 80% quality before uploading
+
 <img src="https://raw.githubusercontent.com/apgapg/firebase-samples/master/vue-firebase-storage/res/s2.png"  width="auto">
 
 ## Firebase Setup
